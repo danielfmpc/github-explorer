@@ -1,7 +1,15 @@
-## Github Explorer
+## Github Explorer 
 
 Objetivo do projeto é buscar projeto do github.
 Exemplo: facebook(ussuário)/react(projeto)
+
+## Listando projeto
+<img alt="GoStack" src="https://i.imgur.com/G3XuTWX.png" />
+
+## Listando as issues, star e forks do projeto
+<img alt="GoStack" src="https://i.imgur.com/dO4m1qz.png" />
+
+
 
 ## Utilizado no projeto
 -- Eslint
