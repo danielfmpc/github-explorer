@@ -14,6 +14,10 @@ Exemplo: facebook(ussuário)/react(projeto)
 
 In the project directory, you can run:
 
+### `yarn`
+
+install necessary dependencies to run the project
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
