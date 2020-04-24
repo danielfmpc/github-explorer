@@ -1,3 +1,15 @@
+## Github Explorer
+
+Objetivo do projeto é buscar projeto do github.
+Exemplo: facebook(ussuário)/react(projeto)
+
+## Utilizado no projeto
+-- Eslint
+-- Prettier
+-- Axios
+-- useState
+-- useEffect
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
